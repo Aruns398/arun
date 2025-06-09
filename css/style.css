@@ -1,0 +1,36 @@
+.header{
+    background-color: rgb(143, 82, 199);
+}
+.header:hover{
+    background-color:maroon;
+    color:white;
+}
+
+    #one{
+        color:brown;
+    }
+    #two{
+        color:aqua;
+    }
+    #three{
+        color:blue;
+    }
+    #four,#five,#six{
+        color:rgb(196, 50, 50);
+    }
+    *{
+        color:black;
+    }
+    .link{
+         text-decoration:none;
+         color:rgb(248, 246, 248);
+        background-color:maroon;
+        padding: 10px;
+        border-radius:10px;
+    }
+  .link:hover{
+          background-color: rgb(167, 59, 59); 
+          color:white;
+  }
+
+       
